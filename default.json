@@ -1,0 +1,111 @@
+[Resolution 16:9]
+
+TopLeft.x = 0.4251700680272109
+TopLeft.y = 0.5421686746987952
+
+Bottomleft.x = 0.4251700680272109
+Bottomleft.y = 0.5903614457831325
+ 
+Topright.x = 0.5697278911564626
+Topright.y = 0.5421686746987952
+
+Bottomright.x = 0.5697278911564626
+Bottomright.y = 0.5903614457831325
+
+CsLogo.x = 0.0246478873239437
+CsLogo.y = 0.0395833333333333
+
+PlayButton.x = 0.0246478873239437
+PlayButton.y = 0.11875
+
+Inventory.x = 0.028169014084507
+Inventory.y = 0.3208333333333333
+
+Options.x = 0.0246478873239437
+Options.y = 0.4833333333333333
+
+Off.x = -1
+Off.y = -1
+
+Search.x = 0.971830985915493
+Search.y = 0.0083333333333333
+
+Looking.x = -1
+Looking.y = -1
+
+JoinLock.x = 0.0962441314553991
+JoinLock.y = 0.9625
+
+LoadingInfo.x = 0.2065727699530516
+LoadingInfo.y = 0.8916666666666667
+
+RejoinButton.x = 0.7981220657276995
+RejoinButton.y = 0.0416666666666667
+
+Accept.x = 0.5
+Accept.y = 0.5625
+
+OpenPlayMenu.x = 0.0246478873239437
+OpenPlayMenu.y = 0.1333333333333333
+
+StartSearch.x = 0.8333333333333333
+StartSearch.y = 0.9583333333333333
+
+RejoinGame.x = 0.7981220657276995
+RejoinGame.y = 0.0541666666666667
+
+[Resolution 4:3]
+
+TopLeft.x = 0.4375
+TopLeft.y = 0.5416666666666667
+
+Bottomleft.x = 0.4375
+Bottomleft.y = 0.5833333333333333
+ 
+Topright.x = 0.5625
+Topright.y = 0.5416666666666667
+
+Bottomright.x = 0.5625
+Bottomright.y = 0.5833333333333333
+
+CsLogo.x = 0.0328125
+CsLogo.y = 0.0354166666666667
+
+PlayButton.x = 0.0328125
+PlayButton.y = 0.1208333333333333
+
+Inventory.x = 0.0359375
+Inventory.y = 0.3229166666666667
+
+Options.x = -1
+Options.y = -1
+
+Off.x = -1
+Off.y = -1
+640 480
+Search.x = 0.96875
+Search.y = 0.0104166666666667
+
+Looking.x = -1
+Looking.y = -1
+
+JoinLock.x = 0.128125
+JoinLock.y = 0.9604166666666667
+
+LoadingInfo.x = 0.09375
+LoadingInfo.y = 0.8583333333333333
+
+RejoinButton.x = 0.715625
+RejoinButton.y = 0.5604166666666667
+
+Accept.x = 0.5
+Accept.y = 0.5625
+
+OpenPlayMenu.x = -1
+OpenPlayMenu.y = -1
+
+StartSearch.x = -1
+StartSearch.y = -1
+
+RejoinGame.x = -1
+RejoinGame.y = -1
