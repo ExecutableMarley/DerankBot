@@ -101,11 +101,11 @@ RejoinButton.y = 0.5604166666666667
 Accept.x = 0.5
 Accept.y = 0.5625
 
-OpenPlayMenu.x = -1
-OpenPlayMenu.y = -1
+OpenPlayMenu.x = 0.03125
+OpenPlayMenu.y = 0.1354166666666667
 
-StartSearch.x = -1
-StartSearch.y = -1
+StartSearch.x = 0.78125
+StartSearch.y = 0.3291666666666667
 
 RejoinGame.x = -1
 RejoinGame.y = -1
