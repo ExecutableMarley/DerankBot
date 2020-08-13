@@ -39,7 +39,7 @@ JoinLock.y = 0.9625
 LoadingInfo.x = 0.2065727699530516
 LoadingInfo.y = 0.8916666666666667
 
-RejoinButton.x = 0.7981220657276995
+RejoinButton.x = 0.765625
 RejoinButton.y = 0.0416666666666667
 
 Accept.x = 0.5
@@ -55,7 +55,7 @@ RejoinGame.x = 0.7981220657276995
 RejoinGame.y = 0.0541666666666667
 
 [Resolution 4:3]
-
+640 480
 TopLeft.x = 0.4375
 TopLeft.y = 0.5416666666666667
 
@@ -69,10 +69,10 @@ Bottomright.x = 0.5625
 Bottomright.y = 0.5833333333333333
 
 CsLogo.x = 0.0328125
-CsLogo.y = 0.0354166666666667
+CsLogo.y = 0.0395833333333333
 
-PlayButton.x = 0.0328125
-PlayButton.y = 0.1208333333333333
+PlayButton.x = 0.034375
+PlayButton.y = 0.1229166666666667
 
 Inventory.x = 0.0359375
 Inventory.y = 0.3229166666666667
@@ -95,12 +95,20 @@ JoinLock.y = 0.9604166666666667
 LoadingInfo.x = 0.09375
 LoadingInfo.y = 0.8583333333333333
 
-RejoinButton.x = 0.715625
-RejoinButton.y = 0.5604166666666667
+RejoinButton.x = 0.765625
+RejoinButton.y = 0.0416666666666667
 
 Accept.x = 0.5
 Accept.y = 0.5625
 
+OpenPlayMenu.x = 0.03125
+OpenPlayMenu.y = 0.1354166666666667
+
+StartSearch.x = 0.778125
+StartSearch.y = 0.9583333333333333
+
+RejoinGame.x = 0.7981220657276995
+RejoinGame.y = 0.0541666666666667
 OpenPlayMenu.x = 0.03125
 OpenPlayMenu.y = 0.1354166666666667
 
